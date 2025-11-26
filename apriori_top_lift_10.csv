@@ -1,0 +1,12 @@
+antecedents,consequents,support,confidence,lift
+"Fill_Level_Underfilled,Stacking_High,Handling_Stage_Sorting,Impact_Events","Fragile_Label,Packaging_Type_Encoded,Damaged,Humidity_Level_Low",0.01,1.0,50.0
+"Fill_Level_Underfilled,Stacking_High,Handling_Stage_Sorting,Impact_Events","Fragile_Label,Damaged,Humidity_Level_Low",0.01,1.0,40.0
+"Stacking_High,Packaging_Type_Encoded,Impact_Events,Fill_Level_Underfilled,Handling_Stage_Sorting","Fragile_Label,Damaged,Humidity_Level_Low",0.01,1.0,40.0
+"Fill_Level_Underfilled,Stacking_High,Handling_Stage_Sorting","Fragile_Label,Packaging_Type_Encoded,Damaged,Humidity_Level_Low",0.01,0.6666666666666667,33.333333333333336
+"Packaging_Type_Encoded,Fragile_Label,Fill_Level_Underfilled,Stacking_High","Humidity_Level_Low,Damaged,Handling_Stage_Sorting,Impact_Events",0.01,0.3333333333333333,33.333333333333336
+"Fragile_Label,Handling_Stage_Sorting,Humidity_Level_High","Stacking_Moderate,Damaged,Impact_Events",0.01,1.0,33.333333333333336
+"Fill_Level_Underfilled,Stacking_High,Handling_Stage_Sorting","Fragile_Label,Damaged,Packaging_Type_Encoded,Impact_Events,Humidity_Level_Low",0.01,0.6666666666666667,33.333333333333336
+"Dropped,Humidity_Level_High","Fragile_Label,Damaged,Fill_Level_Overfilled",0.01,0.5,33.333333333333336
+"Fragile_Label,Dropped,Humidity_Level_High","Damaged,Fill_Level_Overfilled",0.01,1.0,28.57142857142857
+"Stacking_Moderate,Handling_Stage_Sorting,Fill_Level_Overfilled","Damaged,Humidity_Level_High,Impact_Events",0.01,1.0,28.57142857142857
+

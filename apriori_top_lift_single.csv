@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+"Fill_Level_Underfilled,Stacking_High,Handling_Stage_Sorting,Impact_Events","Fragile_Label,Packaging_Type_Encoded,Damaged,Humidity_Level_Low",0.01,1.0,50.0
